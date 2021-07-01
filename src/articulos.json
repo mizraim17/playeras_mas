@@ -1,17 +1,17 @@
 [
 
 	{
-		"Nombre": "Tapabocas Blanco",
+		"Nombre": "Cubrebocas KN95 Blanco",
 		"Precio": 200,
 		"Descripcion": null,
-		"Urlimage": "./images/tapabocas_blanco.jpeg"
+		"Urlimage": "./images/Cubrebocas_blanco.jpeg"
 	},
 
 	{
-		"Nombre": "Tapabocas Gris ",
+		"Nombre": "Cubrebocas KN95 Gris",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "./images/tapabocas_gris.jpeg"
+		"Urlimage": "./images/Cubrebocas_gris.jpeg"
 	},
 
 	{
@@ -22,10 +22,10 @@
 	},
 
 	{
-		"Nombre": "Sudadera Negra Cráneo Línea color",
+		"Nombre": "Suéter Mujer Ruso PVD Skull",
 		"Precio": 600,
 		"Descripcion": null,
-		"Urlimage": "./images/sudadera_negra_craneo.jpeg"
+		"Urlimage": "./images/sueter_negro_skull.jpeg"
 	},
 			{
 		"Nombre": "Sudadera Negra Cráneo Izquierdo",
