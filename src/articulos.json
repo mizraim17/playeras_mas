@@ -12,9 +12,7 @@
 		"Nombre": "Cubrebocas KN95 Blanco",
 		"Precio": 200,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/cubrebocas_blanco.jpeg"
-		
-		
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/cubrebocas_blanco.jpeg"		
 	},
 
 	{
@@ -31,36 +29,36 @@
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/sueter_negro_skull.jpeg"
 	},
 			{
-		"Nombre": "Sudadera Negra Cráneo Izquierdo",
+		"Nombre": "Sudadera Skull Side",
 		"Precio": 140,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/sudadera_negra_craneo_izquierdo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/sudadera_skull_side.jpeg"
 	},
 		{
-		"Nombre": "Bolsa Negra Cráneo",
+		"Nombre": "Bolsa Negra SkullPixel",
 		"Precio": 140,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_negra_craneo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_negra_skullPixel.jpeg"
 	},
 
 
 	{
-		"Nombre": "Player Negra",
+		"Nombre": "Camiseta Hombre Skull Neo Línea",
 		"Precio": 170,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_negra_craneo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_skull_linea.jpeg"
 	},
 	{
-		"Nombre": "Playera Negra Astronauta",
+		"Nombre": "Camiseta Hombre Blanca Astronauta",
 		"Precio": 180,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_negra_astronauta.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_blanca_astronauta.jpeg"
 	},
 	{
-		"Nombre": "Playera Blanca Astronauta",
+		"Nombre": "Camiseta Hombre Negra Astronauta",
 		"Precio": 180,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_blanca_astronauta.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_negra_astronauta.jpeg"
 	},
 	{
 		"Nombre": "Playera Negra Pride",
