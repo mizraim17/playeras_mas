@@ -13,11 +13,8 @@ function App() {
 			console.log("=>", e.target.value)
 		setword(e.target.value);
 		};
-	
-	
+		
 		const [word, setword] = useState('');
-
-	
 	
 	return (
 
@@ -34,11 +31,9 @@ function App() {
 					<FormControl type="text" placeholder="Búsqueda" className="mr-sm-2"
 						onChange={search}
 					/>
-					<Button variant="dark">Buscar</Button>
+					<Button variant="outline-info">Buscar</Button>
 				</Form>
-			</Navbar>
-		
-			 	
+			</Navbar>				 	
  
 		<Container>
 			
