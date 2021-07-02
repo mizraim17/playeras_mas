@@ -53,7 +53,14 @@ function App() {
 					})
 				:
 					bdArticulos
-					. map((el, i) => {
+						.sort(function (a, b) {
+							if ( a.Nombre < b.Nombre )
+							return -1;
+							if ( a.Nombre > b.Nombre )
+								return 1;
+							return 0;
+							})
+						.map((el, i) => {
 					return <Article key={i} item={el} />;
 				})}
 			</Row>
