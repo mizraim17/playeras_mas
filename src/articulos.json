@@ -1,7 +1,5 @@
 [
 
-	
-
 	{
 		"Nombre": "Cubrebocas KN95 Gris",
 		"Precio": 350,
@@ -61,52 +59,52 @@
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_negra_astronauta.jpeg"
 	},
 	{
-		"Nombre": "Playera Negra Pride",
+		"Nombre": "Camiseta Negra Pride",
 		"Precio": 270,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_negra_pride.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_negra_pride.jpeg"
 	},
 	{
-		"Nombre": "Playera Negra Skull Reza Hombre",
+		"Nombre": "Camiseta Hombre Skeleton",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_negra_craneo_reza_hombre.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_skeleton.jpeg"
 	},
 	{
-		"Nombre": "Playera Negra Skull Reza Mujer",
+		"Nombre": "Camiseta Mujer Skeleton",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_negra_craneo_reza_mujer.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_mujer_skeleton.jpeg"
 	},
 	{
-		"Nombre": "Playera Blanca Cráneo Terciopelo",
+		"Nombre": "Camiseta Hombre SkullFC",
 		"Precio": 380,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_blanca_craneo_tercipelo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_skullFC.jpeg"
 	},
 	{
-		"Nombre": "Playera David Tatuaje",
+		"Nombre": "Camiseta David Tatuaje",
 		"Precio": 250,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_david_tatuaje.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_david_tatuaje.jpeg"
 	},
 	{
-		"Nombre": "Playera Negra Cráneo Líneas  ",
+		"Nombre": "Camiseta Hombre SLW",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_negra_craneo_linea.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_SLW.jpeg"
 	},
 	{
-		"Nombre": "Playera Verde Skull",
+		"Nombre": "Camiseta Hombre Verde ",
 		"Precio": 370,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_verde_craneo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_verde.jpeg"
 	},
 	{
-		"Nombre": "Playera Cráneo Píldoras",
+		"Nombre": "Camiseta Hombre Pildoras",
 		"Precio": 300,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_craneo_pildora.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_pildoras.jpeg"
 	},
 	{
 		"Nombre": "Reboso Azul Cráneo.jpeg",
@@ -115,28 +113,28 @@
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/reboso_azul_craneo.jpeg"
 	},
 	{
-		"Nombre": "Playera Gris Textura",
+		"Nombre": "Camiseta Hombre Píldoras Gris",
 		"Precio": 60,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_gris_textura.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_pildoras_gris.jpeg"
 	},
 	{
-		"Nombre": "Bolsa Manta Cráneo Línea",
+		"Nombre": "Bolsa Manta SBlack",
 		"Precio": 180,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_manta_craneo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_manta_SBlack.jpeg"
 	},
 	{
-		"Nombre": "Mono Azul Cráneo",
+		"Nombre": "Moño Jaquard",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/mono_azul_craneo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/mono_jaquard.jpeg"
 	},
 	{
-		"Nombre": "Bolsa Manta Cráneo Azul",
+		"Nombre": "Bolsa Basic B",
 		"Precio": 80,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_manta_craneo_azul.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_basic_B.jpeg"
 	},
 	{
 		"Nombre": "Bolsa Cráneo Militar",
@@ -145,10 +143,10 @@
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_craneo_militar.jpeg"
 	},
 	{
-		"Nombre": "Paleacate Negro Cráneo",
+		"Nombre": "Paliacate Skull Mini",
 		"Precio": 200,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/paleacate_negro_craneo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/paliacate_skull_mini.jpeg"
 	},
 	{
 		"Nombre": "Bolsa Verde Cráneo Amarillo",
@@ -157,16 +155,16 @@
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_verde_craneo_amarillo.jpeg"
 	},
 	{
-		"Nombre": "Bolsa Manta Mecanico Naranja",
+		"Nombre": "Bolsa Manta Logo Mecanico Naranja",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_manta_mecanico_naranja.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_manta_logo_mecanico_naranja.jpeg"
 	},
 	{
-		"Nombre": "Bolsa Manta Mecanico Negro",
+		"Nombre": "Bolsa Manta Logo Mecanico",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_manta_mecanico_negro.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_manta_logo_mecanico.jpeg"
 	},
 	{
 		"Nombre": "Capa Negra ",
@@ -175,70 +173,71 @@
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/capa_negra.jpeg"
 	},
 	{
-		"Nombre": "Playera Mono",
+		"Nombre": "Camiseta Hombre Mon",
 		"Precio": 200,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_mono.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_mon.jpeg"
 	},
 	{
-		"Nombre": "Playera Tigre Mujer  ",
+		"Nombre": "Camiseta mujer Tigre",
 		"Precio": 350,
+		"Genero":"mujer",
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_tigre.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_mujer_tigre.jpeg"
 	},
 	{
-		"Nombre": "Playera Dedo",
+		"Nombre": "Camiseta Mujer Dedo B",
 		"Precio": 80,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_dedo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_mujer_dedo_B.jpeg"
 	},
 	{
-		"Nombre": "Playera Ojo",
+		"Nombre": "Camiseta Ojo",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_ojo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta.jpeg"
 	},
 	{
-		"Nombre": "Playera Puntos Neón",
+		"Nombre": "Camiseta Hombre Puntos Neón",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_puntos_neon.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_puntos_neon.jpeg"
 	},
 	{
-		"Nombre": "Playera Blanca Craneo Línea Amarillo",
+		"Nombre": "Camiseta Hombre Skull Neo",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_blanca_craneo_linea_amarillo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_skull_neo.jpeg"
 	},
 	{
-		"Nombre": "Playera Negra Cráneo Chico ",
+		"Nombre": "Camiseta Hombre CM",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_negra_craneo_chico.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_CM.jpeg"
 	},
 	{
-		"Nombre": "Playera Blanca Tigre Rayo",
+		"Nombre": "Camiseta Hombre Tigre Rayo",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_blanca_tigre_rayo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_tigre_rayo.jpeg"
 	},
 	{
-		"Nombre": "Playera Blanca Gato Rayo Mujer",
+		"Nombre": "Camiseta Mujer Gato",
 		"Precio": 200,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_blanca_gato_rayo_mujer.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_mujer_gato.jpeg"
 	},
 	{
-		"Nombre": "Playera Blanca Gato Rayo Hombre",
+		"Nombre": "Camiseta Hombre Gato Hombre",
 		"Precio": 200,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_blanca_gato_rayo_hombre.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_gato.jpeg"
 	},
 	{
-		"Nombre": "Playera Gris Snoopy Mujer",
+		"Nombre": "Camiseta Gris Snoopy Mujer",
 		"Precio": 180,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_gris_snoopy_mujer.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_gris_snoopy_mujer.jpeg"
 	},
 	{
 		"Nombre": "Anillo Acero Mecanico",
@@ -247,46 +246,46 @@
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/anillo_acero_mecanico.jpeg"
 	},
 	{
-		"Nombre": "Sudadera Gris Cráneo",
-		"Precio": 550,
+		"Nombre": "Sudadera Oxford Skull",
+		"Precio": 599,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/sudadera_gris_craneo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/sudadera_oxford_skull.jpeg"
 	},
 	{
-		"Nombre": "Vestido Gris Mecanico",
+		"Nombre": "Vestido Gris REBORN",
 		"Precio": 200,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/vestido_gris_mecanico.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/vestido_gris_REBORN.jpeg"
 	},
 	{
-		"Nombre": "Playera Gris Superheroes",
+		"Nombre": "Camiseta Gris Superheroes",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_gris_superheroes.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_gris_superheroes.jpeg"
 	},
 	{
-		"Nombre": "Playera Tirantes Tigre",
+		"Nombre": "Camiseta Tirantes Tigre",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_tirantes_tigre.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_tirantes_tigre.jpeg.jpeg"
 	},
 	{
-		"Nombre": "Playera Negra Cráneo Terciopelo",
+		"Nombre": "Camiseta Hombre CBI",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_negra_craneo_terciopelo.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_CBI.jpeg"
 	},
 	{
-		"Nombre": "Playera Cráneo SBB",
+		"Nombre": "Camiseta Hombre SBB",
 		"Precio": 350,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_craneo_SBB.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_SBB.jpeg"
 	},
 	{
-		"Nombre": "Playera Blanca Cráneo Tucán   ",
+		"Nombre": "Camiseta Mujer Tucán",
 		"Precio": 200,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_blanca_craneo_tucan.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_mujer_tucan.jpeg"
 	}
 
 	 
