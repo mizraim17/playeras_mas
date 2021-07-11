@@ -20,7 +20,9 @@ function App() {
 
 		< > 
 			<Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" sticky="top">
-    		<Navbar.Brand href="#home">Playeras & Más</Navbar.Brand>
+				<Navbar.Brand href="#home">Playeras & Más</Navbar.Brand>
+				<Navbar.Toggle aria-controls="responsive-navbar-nav" />
+  			<Navbar.Collapse id="responsive-navbar-nav"></Navbar.Collapse>
 				<Nav className="mr-auto">
 					<Nav.Link href="#home">Inventario</Nav.Link>
 					<Nav.Link href="#features">Tienda</Nav.Link>
