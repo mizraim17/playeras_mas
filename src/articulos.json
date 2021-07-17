@@ -288,19 +288,20 @@
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_mujer_tucan.jpeg"
 	}
 	,
+		
+	{
+		"Nombre": "Camiseta Hombre Snout",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_snout.jpeg"
+	},
 	{
 		"Nombre": "Camiseta Hombre Tigre",
 		"Precio": 249,
 		"Descripcion": null,
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_tigre.jpeg"
 	}
-	,
-	{
-		"Nombre": "Camiseta Hombre Snout",
-		"Precio": 249,
-		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_snout.jpeg"
-	}
+
 	,
 	{
 		"Nombre": "Camiseta Hombre León",
@@ -348,17 +349,17 @@
 	,
 
 	{
-		"Nombre": "Playera Gris Skull Mecánico Mujer",
+		"Nombre": "Camiseta Gris Skull Mecánico Mujer",
 		"Precio": 249,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_gris_skull_mecanico_mujer.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_gris_skull_mecanico_mujer.jpeg"
 	}
 	,
 	{
-		"Nombre": "Playera Gris Mi Exs Puto",
+		"Nombre": "Camiseta Gris Mi Exs Puto",
 		"Precio": 249,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_gris_mi_exs_puto.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_gris_mi_exs_puto.jpeg"
 	}
 	,
 
