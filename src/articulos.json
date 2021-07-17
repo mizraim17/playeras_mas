@@ -86,7 +86,7 @@
 		"Nombre": "Camiseta David Tatuaje",
 		"Precio": 299,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playSnoopyeras_mas/images/camiseta_david_tatuaje.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_david_tatuaje.jpeg"
 	},
 	{
 		"Nombre": "Camiseta Hombre SLW",
@@ -162,7 +162,7 @@
 	},
 	{
 		"Nombre": "Bolsa Manta Logo Mecanico",
-		"Precio": 350,
+		"Precio": 199,
 		"Descripcion": null,
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/bolsa_manta_logo_mecanico.jpeg"
 	},
@@ -286,6 +286,109 @@
 		"Precio": 299,
 		"Descripcion": null,
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_mujer_tucan.jpeg"
+	}
+	,
+	{
+		"Nombre": "Camiseta Hombre Tigre",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_tigre.jpeg"
+	}
+	,
+	{
+		"Nombre": "Camiseta Hombre Snout",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_snout.jpeg"
+	}
+	,
+	{
+		"Nombre": "Camiseta Hombre León",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_leon.jpeg"
+	}
+	,
+	{
+		"Nombre": "Vestido Gris Skull",
+		"Precio": 399,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/vestido_gris_skull.jpeg"
+	}
+	,
+	{
+		"Nombre": "Camiseta McPato",
+		"Precio": 349,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_mcpato.jpeg"
+	}
+	,
+
+	{
+		"Nombre": "Camiseta Hombre Blanca 3CS",
+		"Precio": 349,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_blanca_3CS.jpeg"
+	}
+,
+	{
+		"Nombre": "Tabla Madera Skull",
+		"Precio": 200,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/tabla_madera_skull.jpeg"
+	}
+	,
+
+	{
+		"Nombre": "Camiseta Hombre Cráneo Mini CB",
+		"Precio": 100,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_craneo_mini_CB.jpeg"
+	}
+	,
+
+	{
+		"Nombre": "Playera Gris Skull Mecánico Mujer",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_gris_skull_mecanico_mujer.jpeg"
+	}
+	,
+	{
+		"Nombre": "Playera Gris Mi Exs Puto",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/playera_gris_mi_exs_puto.jpeg"
+	}
+	,
+
+	{
+		"Nombre": "Camiseta Tirantes Make Takos",
+		"Precio": 199,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_tirantes_make_takos.jpeg"
+	}
+	,
+
+	{
+		"Nombre": "Camiseta Tirantes Neón Skull",
+		"Precio": 199,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_tirantes_neon_skull.jpeg"
+	}
+	,
+	{
+		"Nombre": "Camiseta Bicicleta Mujer",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_bicicleta.jpeg"
+	}
+	,
+	{
+		"Nombre": "Camiseta Gato Mujer",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_gato_mujer.jpeg"
 	}
 
 	 
