@@ -276,10 +276,10 @@
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_CBI.jpeg"
 	},
 	{
-		"Nombre": "Camiseta Hombre SBB",
-		"Precio": 0,
+		"Nombre": "Camiseta Mujer SBB",
+		"Precio": 349,
 		"Descripcion": null,
-		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_SBB.jpeg"
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_mujer_SBB.jpeg"
 	},
 	{
 		"Nombre": "Camiseta Mujer Tucán",
@@ -391,7 +391,58 @@
 		"Descripcion": null,
 		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_gato_mujer.jpeg"
 							 
+	},
+
+		{
+		"Nombre": "Camiseta Hombre Cráneo Poligonal",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_craneo_poligonal.jpeg"
+							 
+	},
+
+		{
+		"Nombre": "Tank Top Hombre Craneo Mini Mariposa",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/tank_top_hombre_craneo_mini_mariposa.jpeg"
+							 
+	},
+
+		{
+		"Nombre": "Tank Top Hombre Craneo Mini Mariposa",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/tank_top_hombre_craneo_mini_mariposa.jpeg"
+							 
+	},
+
+	 		{
+		"Nombre": "Camiseta Hombre Gris Detalles Superiores X",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_gris_detalles_superiores_x.jpeg"
+							 
+	}
+	,
+
+	 		{
+		"Nombre": "Camiseta Hombre Tiburón",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_tiburon.jpeg"
+							 
+	}
+	,
+
+	 		{
+		"Nombre": "Camiseta Hombre Skull Neon",
+		"Precio": 249,
+		"Descripcion": null,
+		"Urlimage": "https://mizraim17.github.io/playeras_mas/images/camiseta_hombre_skull_neon.jpeg"
+							 
 	}
 
+	 
 	 
 ]
